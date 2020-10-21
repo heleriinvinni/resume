@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Hele-Riin Vinni
 
-You can use the [editor on GitHub](https://github.com/heleriinvinni/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Intern as a IT system specialist.💻
+Graduate in 2021. 🎓 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience
 
-### Markdown
+01.07.2021 - Intern in SMIT as IT technician
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Education
 
-# Header 1
-## Header 2
-### Header 3
+01.09.2019 – Tallinn Polytechnic IT systems specialist
 
-- Bulleted
-- List
+2013 - 2020 - Tallinn Univesrsity of Technology Bachelor of Arts in Social Sciences
 
-1. Numbered
-2. List
+#### Skills
 
-**Bold** and _Italic_ and `Code` text
+Office 365, Excel, Word, Access, PowerPoint, Cloud Applications, AutoCad, Active Directorty, Computer Hardware, SCCM
 
-[Link](url) and ![Image](src)
-```
+##### Interests
+Travelling
+Books
+Technology
+Hiking
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###### Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heleriinvinni/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[GitHub](https://docs.github.com/heleriinvinni) 
